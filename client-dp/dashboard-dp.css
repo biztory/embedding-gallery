@@ -1,0 +1,25 @@
+body {
+    font-size: .875rem;
+    background-color: #f5f5f5;
+  }
+  
+  .feather {
+    width: 16px;
+    height: 16px;
+    vertical-align: text-bottom;
+  }
+
+  /*
+   * Other stuff we added
+   */
+
+  .logo {
+    width: 120px;
+  }
+  
+  /*
+   * Utilities
+   */
+  
+  .border-top { border-top: 1px solid #e5e5e5; }
+  .border-bottom { border-bottom: 1px solid #e5e5e5; }
